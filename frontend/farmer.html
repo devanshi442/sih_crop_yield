@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Farmer View</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Farmer Dashboard</h1>
+  <div id="form-area">
+    <h3>Predict Yield</h3>
+    <form id="predictForm">
+      <input name="State" placeholder="State" required /><br/>
+      <input name="District" placeholder="District" required /><br/>
+      <input name="Crop" placeholder="Crop" required /><br/>
+      <input name="Season" placeholder="Season" required /><br/>
+      <input type="number" step="any" name="Area" placeholder="Area" required /><br/>
+      <input type="number" step="any" name="Production" placeholder="Production" /><br/>
+      <input type="number" step="any" name="Rainfall" placeholder="Rainfall" required /><br/>
+      <input type="number" step="any" name="Fertilizer" placeholder="Fertilizer" required /><br/>
+      <input type="number" step="any" name="Pesticide" placeholder="Pesticide" required /><br/>
+      <input type="number" step="any" name="Latitude" placeholder="Latitude" /><br/>
+      <input type="number" step="any" name="Longitude" placeholder="Longitude" /><br/>
+      <select name="model">
+        <option value="rf">Random Forest</option>
+        <option value="xgb">XGBoost</option>
+      </select><br/>
+      <button type="submit">Predict</button>
+    </form>
+    <h2 id="result"></h2>
+  </div>
+
+  <div id="chat-area">
+    <h3>Farmer Chatbot</h3>
+    <textarea id="msg" placeholder="Ask in English or Hindi"></textarea><br/>
+    <select id="lang"><option value="en">English</option><option value="hi">Hindi</option></select>
+    <button id="send">Send</button>
+    <div id="chatResp"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

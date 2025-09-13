@@ -1,0 +1,51 @@
+Farmer_ID,Name,Age,Location,Previous_Crop,Last_Yield
+1,Ram Kumar,45,Uttar Pradesh,Wheat,3000
+2,Shyam Yadav,39,Madhya Pradesh,Rice,4200
+3,Anil Singh,50,Haryana,Maize,2600
+4,Rakesh Patel,42,Gujarat,Soybean,3100
+5,Vikas Sharma,36,Punjab,Wheat,3050
+6,Ravi Verma,47,Bihar,Rice,4150
+7,Santosh Kumar,41,Uttarakhand,Maize,2500
+8,Naresh Yadav,44,Rajasthan,Soybean,2980
+9,Arun Singh,38,Odisha,Wheat,3150
+10,Amit Kumar,40,Uttar Pradesh,Rice,4250
+11,Sunil Patel,46,Gujarat,Maize,2550
+12,Manoj Sharma,43,Punjab,Soybean,3080
+13,Pankaj Singh,37,Haryana,Wheat,3180
+14,Deepak Yadav,39,Madhya Pradesh,Rice,4180
+15,Harish Kumar,48,Bihar,Maize,2450
+16,Alok Sharma,42,Uttarakhand,Soybean,2990
+17,Nitin Verma,45,Uttar Pradesh,Wheat,3220
+18,Kamal Singh,41,Haryana,Rice,4300
+19,Rajesh Patel,50,Gujarat,Maize,2380
+20,Rohit Sharma,36,Punjab,Soybean,3100
+21,Ashok Yadav,44,Madhya Pradesh,Wheat,3120
+22,Suresh Kumar,39,Uttar Pradesh,Rice,4320
+23,Ajay Singh,46,Haryana,Maize,2580
+24,Satish Patel,42,Gujarat,Soybean,3150
+25,Mahesh Sharma,37,Punjab,Wheat,3250
+26,Arvind Kumar,40,Bihar,Rice,4280
+27,Vijay Yadav,49,Uttarakhand,Maize,2420
+28,Prem Singh,43,Odisha,Soybean,3040
+29,Ankur Patel,38,Gujarat,Wheat,3200
+30,Sanjay Sharma,45,Uttar Pradesh,Rice,4220
+31,Dinesh Kumar,41,Haryana,Maize,2500
+32,Prakash Singh,39,Punjab,Soybean,3090
+33,Yogesh Patel,48,Gujarat,Wheat,3140
+34,Sharad Yadav,44,Madhya Pradesh,Rice,4180
+35,Devendra Kumar,36,Bihar,Maize,2440
+36,Inder Singh,42,Odisha,Soybean,3020
+37,Vishal Sharma,47,Punjab,Wheat,3270
+38,Mukesh Kumar,41,Uttar Pradesh,Rice,4320
+39,Lalit Patel,50,Gujarat,Maize,2390
+40,Avinash Singh,38,Haryana,Soybean,3110
+41,Gopal Sharma,45,Punjab,Wheat,3160
+42,Om Prakash,40,Uttarakhand,Rice,4270
+43,Brijesh Kumar,43,Bihar,Maize,2470
+44,Kishan Yadav,37,Odisha,Soybean,3070
+45,Shivam Patel,39,Gujarat,Wheat,3230
+46,Rahul Sharma,48,Madhya Pradesh,Rice,4360
+47,Anand Kumar,42,Punjab,Maize,2430
+48,Manish Singh,36,Uttar Pradesh,Soybean,3060
+49,Kuldeep Yadav,44,Haryana,Wheat,3280
+50,Suresh Patel,42,Gujarat,Rice,4290
